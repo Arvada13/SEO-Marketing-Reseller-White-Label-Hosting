@@ -10,6 +10,15 @@ It allows you to associate metadata with:
 * model classes
 * views
 
+http://www.spoke.com/companies/blink-seo-5895a00a2cd370aeab002874
+http://www.iformative.com/product/blink-seo-p1515399.html
+https://www.thediscdirectory.co.uk/ldn/nw/willesdenlane/b2b/seo-digital-marketing/blink-seo-9254391.html
+http://www.bizify.co.uk/internet-services/london/NW6-7TU/blink-seo
+http://www.britaine.co.uk/blink-seo-F120AC40E18D543
+http://www.scoop.it/t/blink-seo
+https://www.tripline.net/blinkseo09/
+https://betterbizlist.com/business/blink-seo/
+
 Metadata can be edited in the admin in a centralised place, but also alongside any associated models.
 
 This is however a framework, not an app. You therefore have
@@ -31,5 +40,11 @@ Here is an example of a definition::
         og_description = seo.MetaTag(name="og:description", populate_from="description", verbose_name='facebook description')
 
 As you can see it is very flexible, but there is much more than this simple example.
+
+https://www.plaxo.com/profile/show/blink-seo
+http://yeymi.com/listings/blink-seo/
+http://www.40billion.com/company/665233244
+http://yupye.com/?ptype=preview&alook=1&pid=17702#
+http://www.ogoing.com/blinkseo09
 
 The full documentation can be read online at http://django-seo.readthedocs.org/.
